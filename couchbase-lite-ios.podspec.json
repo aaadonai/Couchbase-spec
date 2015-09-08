@@ -9,7 +9,8 @@
   "homepage": "http://mobile.couchbase.com",
   "authors": "Couchbase",
   "source": {
-    "http": "https://github.com/couchbase/couchbase-lite-ios.git"
+    "http": "https://github.com/aaadonai/couchbase-lite-ios.git"
+, "tag":"1.1.0"
   },
   "preserve_paths": "LICENSE.txt",
   "platforms": {
